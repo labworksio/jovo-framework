@@ -1,5 +1,6 @@
 {
 	"name": "root",
+	"version": "1",
 	"private": true,
 	"scripts": {
 		"lerna": "lerna",
